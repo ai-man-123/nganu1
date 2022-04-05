@@ -81,7 +81,7 @@ module.exports = {
 
         const buttonsDefault = [
             { urlButton: { displayText: `🍴 Source Code`, url: package.repository.url } },
-            { urlButton: { displayText: `💌 Telegram Bot`, url: `https://t.me/tikdl_bot` } },
+            { urlButton: { displayText: `💌 Tiktok Owner `, url: `tiktok.com/@aiman_night` } },
             { quickReplyButton: { displayText: `☎ Owner`, id: `${prefix}owner` } },
         ]
         client.sendMessage(m.chat, {
